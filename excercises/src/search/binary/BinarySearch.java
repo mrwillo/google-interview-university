@@ -1,7 +1,5 @@
 package search.binary;
 
-import java.util.Arrays;
-
 /**
  * Created by willo on 12/21/16.
  */
